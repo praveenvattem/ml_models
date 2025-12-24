@@ -1,7 +1,7 @@
 anaconda-client==1.7.2
 anaconda-navigator==1.9.7
 anaconda-project==0.8.3
-Flask==1.1.1
+Flask==2.3.2
 Keras==2.2.4
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
