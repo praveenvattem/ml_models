@@ -16,6 +16,6 @@ tensorboard==1.14.0
 tensorflow==2.11.1
 tensorflow-estimator==1.14.0
 testpath==0.4.2
-tqdm==4.36.1
+tqdm==4.66.3
 virtualenv==16.7.5
 zipp==0.6.0
